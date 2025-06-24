@@ -9,3 +9,4 @@ You'll find in my repositories some fun, as well as school or internship project
 Most of projects in PHP are school projects.
 
 I also really enjoy Python and JavaScript.
+(exept Django, # I HATE YOU DJANGO)
