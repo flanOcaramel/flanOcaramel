@@ -1,4 +1,4 @@
-# Let meintroduce myself: 
+# Hey, fellow adventurer !
 My name is Sael, I'm a 18yo french wannabe developper.<br><br>I'm a student in BTS SIO, based in Lycée Frédéric Chopin, Nancy.<br><br>You'll find in my repositories some fun, as well as school or internship projects !<br><br>Most of projects in PHP are school projects.<br><br>I also really enjoy Python and JavaScript.
 
 
